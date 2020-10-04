@@ -4,15 +4,16 @@
 
 layout: default
 title: Hankook Lee
+permalink: /
 ---
 
-*hankook.lee at kaist.ac.kr* \\
+*{{ site.email }}* \\
 [Algorithmic Intelligence Lab](http://alinlab.kaist.ac.kr), [KAIST](https://kaist.ac.kr/), Daejeon, Korea.
 
 <div class="row pb-3" style="text-align: center">
 <div class="col">
-<a href="https://twitter.com/hankook_lee"><i class="fab fa-twitter fa-2x"></i></a>
-<a href="https://github.com/hankook"><i class="fab fa-github fa-2x"></i></a>
+<a href="https://twitter.com/{{ site.twitter_username }}"><i class="fab fa-twitter fa-2x"></i></a>
+<a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github fa-2x"></i></a>
 <a href="https://scholar.google.co.kr/citations?user=CgqswXUAAAAJ"><i class="ai ai-google-scholar fa-2x"></i></a>
 </div>
 </div>
