@@ -52,5 +52,19 @@ arXiv, 2018 \\
 
 ---
 
+#### Education
+<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2016. 03 - 2018. 08 \\
+<strong>M.S. in Electrical Engineering</strong> (adviser: [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html))
+
+<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2010. 02 - 2016. 02 \\
+<strong>B.S. in Mathematical Science and Computer Science</strong> (double major)
+
+---
+
+#### Awards
+- Qualcomm-KAIST Innovation Awards 2019
+
+---
+
 #### Services
 - Conference Reviewer: ICLR2020, NeurIPS2020, ICLR2021
