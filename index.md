@@ -61,6 +61,12 @@ arXiv, 2018 \\
 
 ---
 
+#### Work Experience
+<strong>Frograms</strong> (changed to Watcha Inc. @ 2018), Seoul, Korea, 2013. 08 - 2014. 12 \\
+<strong>Research and Development Engineer</strong>
+
+---
+
 #### Awards
 - Qualcomm-KAIST Innovation Awards 2019
 
