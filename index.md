@@ -34,14 +34,14 @@ Sungsoo Ahn, Junsu Kim, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
 <strong><u>Hankook Lee</u></strong>, Sung Ju Hwang, Jinwoo Shin \\
 *International Conference on Machine Learning (ICML)*, 2020 \\
 [[paper](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf)]
-[[code](https://github.com/hankook/SLA)]
+[[code](https://github.com/hankook/SLA) <i class="far fa-star"></i><span class="github-star" data-repo="hankook/SLA"></span>]
 [[talk](https://icml.cc/virtual/2020/poster/6093)]
 
 [C1] Learning What and Where to Transfer \\
 Yunhun Jang\*, <strong><u>Hankook Lee</u></strong>\*, Sung Ju Hwang, Jinwoo Shin \\
 *International Conference on Machine Learning (ICML)*, 2019 \\
 [[paper](http://proceedings.mlr.press/v97/jang19b.html)]
-[[code](https://github.com/alinlab/L2T-ww)]
+[[code](https://github.com/alinlab/L2T-ww) <i class="far fa-star"></i><span class="github-star" data-repo="alinlab/L2T-ww"></span>]
 [[slide](https://icml.cc/media/Slides/icml/2019/103(13-09-00)-13-10-05-5011-learning_what_a.pdf)]
 [[talk](https://slideslive.com/38917771/supervised-and-transfer-learning) 55:14~59:09]
 
