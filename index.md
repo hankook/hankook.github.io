@@ -49,6 +49,7 @@ Yunhun Jang\*, <strong><u>Hankook Lee</u></strong>\*, Sung Ju Hwang, Jinwoo Shin
 <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
 arXiv, 2018 \\
 [[paper](https://arxiv.org/abs/1807.02609)]
+[[code](https://github.com/hankook/IResNeXt) <i class="far fa-star"></i><span class="github-star" data-repo="hankook/IResNeXt"></span>]
 
 ---
 
