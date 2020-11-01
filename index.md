@@ -54,6 +54,9 @@ arXiv, 2018 \\
 ---
 
 #### Education
+<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2018. 09 - now \\
+<strong>Ph.D. in Electrical Engineering</strong> (adviser: [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html))
+
 <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2016. 03 - 2018. 08 \\
 <strong>M.S. in Electrical Engineering</strong> (adviser: [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html))
 
@@ -69,7 +72,9 @@ arXiv, 2018 \\
 ---
 
 #### Awards
-- Qualcomm-KAIST Innovation Awards 2019
+- Qualcomm-KAIST Innovation Awards (2019)
+- International Collegiate Programming Contest (ICPC) Asia Daejeon Regional: <strong>Grand</strong> Prize (2012)
+- Korea Olympiad in Informatics (KOI) : <strong>Gold</strong> Prize (2009)
 
 ---
 
