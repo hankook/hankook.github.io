@@ -26,12 +26,12 @@ Hi, I am a Ph.D. student in School of Electrical Engineering at Korea Advanced I
 (C: conference, P: preprint, W: workshop \* equal contribution)
 
 [C4] <strong>GTA: Graph Truncated Attention for Retrosynthesis</strong> \\
-Seung-Woo Seo, You Young Song, June Yong Yang, Seohui Bae, <strong><u>Hankook Lee</u><strong>, Jinwoo Shin, Sung Ju Hwang and Eunho Yang \\
-*AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \\
+Seung-Woo Seo, You Young Song, June Yong Yang, Seohui Bae, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin, Sung Ju Hwang and Eunho Yang \\
+*AAAI Conference on Artificial Intelligence (AAAI)*, 2021
 
 [W] <strong>RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning</strong> \\
 <strong><u>Hankook Lee</u></strong>, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
-*NeurIPS Workshop for Machine Learning for Molecules*, 2020 \\
+*NeurIPS Workshop for Machine Learning for Molecules*, 2020
 
 [C3] <strong>Guiding Deep Molecular Optimization with Genetic Exploration</strong> \\
 Sungsoo Ahn, Junsu Kim, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
