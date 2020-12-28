@@ -31,17 +31,22 @@ Seung-Woo Seo, You Young Song, June Yong Yang, Seohui Bae, <strong><u>Hankook Le
 
 [W] <strong>RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning</strong> \\
 <strong><u>Hankook Lee</u></strong>, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
-*NeurIPS Workshop for Machine Learning for Molecules*, 2020
+*NeurIPS Workshop for Machine Learning for Molecules*, 2020 \\
+[[paper](https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_42.pdf)]
+[[poster](/assets/poster_RetCL.png)]
 
 [C3] <strong>Guiding Deep Molecular Optimization with Genetic Exploration</strong> \\
 Sungsoo Ahn, Junsu Kim, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
 *Neural Information Processing Systems (NeurIPS)*, 2020 \\
-[[paper](https://arxiv.org/abs/2007.04897)]
+[[paper](https://papers.nips.cc/paper/2020/hash/8ba6c657b03fc7c8dd4dff8e45defcd2-Abstract.html)]
+[[arxiv](https://arxiv.org/abs/2007.04897)]
+[[code](https://github.com/sungsoo-ahn/genetic-expert-guided-learning)]
 
 [C2] <strong>Self-supervised Label Augmentation via Input Transformations</strong> \\
 <strong><u>Hankook Lee</u></strong>, Sung Ju Hwang, Jinwoo Shin \\
 *International Conference on Machine Learning (ICML)*, 2020 \\
-[[paper](https://proceedings.icml.cc/static/paper_files/icml/2020/2048-Paper.pdf)]
+[[paper](http://proceedings.mlr.press/v119/lee20c.html)]
+[[arxiv](https://arxiv.org/abs/1910.05872)]
 [[code](https://github.com/hankook/SLA) <i class="far fa-star"></i><span class="github-star" data-repo="hankook/SLA"></span>]
 [[talk](https://icml.cc/virtual/2020/poster/6093)]
 
@@ -49,6 +54,7 @@ Sungsoo Ahn, Junsu Kim, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
 Yunhun Jang\*, <strong><u>Hankook Lee</u></strong>\*, Sung Ju Hwang, Jinwoo Shin \\
 *International Conference on Machine Learning (ICML)*, 2019 \\
 [[paper](http://proceedings.mlr.press/v97/jang19b.html)]
+[[arxiv](https://arxiv.org/abs/1905.05901)]
 [[code](https://github.com/alinlab/L2T-ww) <i class="far fa-star"></i><span class="github-star" data-repo="alinlab/L2T-ww"></span>]
 [[slide](https://icml.cc/media/Slides/icml/2019/103(13-09-00)-13-10-05-5011-learning_what_a.pdf)]
 [[talk](https://slideslive.com/38917771/supervised-and-transfer-learning) 55:14~59:09]
@@ -56,7 +62,7 @@ Yunhun Jang\*, <strong><u>Hankook Lee</u></strong>\*, Sung Ju Hwang, Jinwoo Shin
 [P1] Anytime Neural Prediction via Slicing Networks Vertically \\
 <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
 arXiv, 2018 \\
-[[paper](https://arxiv.org/abs/1807.02609)]
+[[arxiv](https://arxiv.org/abs/1807.02609)]
 [[code](https://github.com/hankook/IResNeXt) <i class="far fa-star"></i><span class="github-star" data-repo="hankook/IResNeXt"></span>]
 
 ---
