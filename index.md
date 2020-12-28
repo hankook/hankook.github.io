@@ -40,7 +40,7 @@ Sungsoo Ahn, Junsu Kim, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
 *Neural Information Processing Systems (NeurIPS)*, 2020 \\
 [[paper](https://papers.nips.cc/paper/2020/hash/8ba6c657b03fc7c8dd4dff8e45defcd2-Abstract.html)]
 [[arxiv](https://arxiv.org/abs/2007.04897)]
-[[code](https://github.com/sungsoo-ahn/genetic-expert-guided-learning)]
+[[code](https://github.com/sungsoo-ahn/genetic-expert-guided-learning) <i class="far fa-star"></i><span class="github-star" data-repo="sungsoo-ahn/genetic-expert-guided-learning"></span>]
 
 [C2] <strong>Self-supervised Label Augmentation via Input Transformations</strong> \\
 <strong><u>Hankook Lee</u></strong>, Sung Ju Hwang, Jinwoo Shin \\
