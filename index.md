@@ -31,7 +31,8 @@ Hi, I am a Ph.D. student in School of Electrical Engineering at Korea Advanced I
 
 [C4] <strong>GTA: Graph Truncated Attention for Retrosynthesis</strong> \\
 Seung-Woo Seo, You Young Song, June Yong Yang, Seohui Bae, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin, Sung Ju Hwang, Eunho Yang \\
-*AAAI Conference on Artificial Intelligence (AAAI)*, 2021
+*AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \\
+[[paper](https://www.aaai.org/AAAI21Papers/AAAI-10027.SeoS.pdf)]
 
 [C3] <strong>Guiding Deep Molecular Optimization with Genetic Exploration</strong> \\
 Sungsoo Ahn, Junsu Kim, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
