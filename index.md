@@ -24,7 +24,7 @@ Hi, I am a Ph.D. student in School of Electrical Engineering at Korea Advanced I
 
 [C6] <strong>Self-Improved Retrosynthetic Planning</strong> \\
 Junsu Kim, Sungsoo Ahn, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
-*International Conference on Machine Learning (ICML)*, 2021 \\
+*International Conference on Machine Learning (ICML)*, 2021
 
 [C5/W] <strong>RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning</strong> \\
 <strong><u>Hankook Lee</u></strong>, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
@@ -97,4 +97,4 @@ arXiv, 2018 \\
 ---
 
 #### Services
-- Conference Reviewer: ICLR (2020, 2021), NeurIPS (2020), ICML (2021)
+- Conference Reviewer: ICLR (2020, 2021), NeurIPS (2020, 2021), ICML (2021)
