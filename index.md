@@ -22,9 +22,20 @@ Hi, I am a Ph.D. student in School of Electrical Engineering at Korea Advanced I
 #### Publications
 (C: conference, P: preprint, W: workshop \* equal contribution)
 
+[W] <strong>Improving Transferability of Representations via Augmentation-Aware Self-Supervision</strong> \\
+<strong><u>Hankook Lee</u></strong>, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
+ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception \\
+[[paper](/assets/AugSelf_ICML21_SSLworkshop_camera_ready.pdf)]
+[[poster](https://icml21ssl.github.io/pages/files/improving_poster.pdf)]
+
 [C6] <strong>Self-Improved Retrosynthetic Planning</strong> \\
 Junsu Kim, Sungsoo Ahn, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
-*International Conference on Machine Learning (ICML)*, 2021
+*International Conference on Machine Learning (ICML)*, 2021 \\
+[[paper](http://proceedings.mlr.press/v139/kim21b.html)]
+[[arxiv](https://arxiv.org/abs/2106.04880)]
+[[slide](https://icml.cc/media/icml-2021/Slides/10749.pdf)]
+[[poster](https://drive.google.com/file/d/1sbVoaw6eSYPK4WUxW34FNakfdwmlgcVu/view)]
+[[code](https://github.com/junsu-kim97/self_improved_retro)]
 
 [C5/W] <strong>RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning</strong> \\
 <strong><u>Hankook Lee</u></strong>, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
@@ -84,6 +95,9 @@ arXiv, 2018 \\
 ---
 
 #### Work Experience
+<strong>Samsung Advanced Institute of Technology (SAIT)</strong>, Suwon, Korea, 2020. 01 - 2020.03 \\
+<strong>Visiting Student</strong>
+
 <strong>Frograms</strong> (changed to Watcha Inc. @ 2018), Seoul, Korea, 2013. 08 - 2014. 12 \\
 <strong>Research and Development Engineer</strong>
 
