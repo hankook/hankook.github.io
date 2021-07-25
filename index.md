@@ -35,7 +35,7 @@ Junsu Kim, Sungsoo Ahn, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
 [[arxiv](https://arxiv.org/abs/2106.04880)]
 [[slide](https://icml.cc/media/icml-2021/Slides/10749.pdf)]
 [[poster](https://drive.google.com/file/d/1sbVoaw6eSYPK4WUxW34FNakfdwmlgcVu/view)]
-[[code](https://github.com/junsu-kim97/self_improved_retro)]
+[[code](https://github.com/junsu-kim97/self_improved_retro) <i class="far fa-star"></i><span class="github-star" data-repo="junsu-kim97/self_improved_retro"></span>]
 
 [C5/W] <strong>RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning</strong> \\
 <strong><u>Hankook Lee</u></strong>, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
