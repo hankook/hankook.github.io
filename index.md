@@ -4,7 +4,7 @@ title: Hankook Lee
 permalink: /
 ---
 
-*{{ site.email }}* \\
+*{{ site.email }}* / [[CV](/assets/CV.pdf)] \\
 [Algorithmic Intelligence Lab](http://alinlab.kaist.ac.kr), [KAIST](https://kaist.ac.kr/), Daejeon, Korea.
 
 <div class="row pb-3" style="text-align: center">
