@@ -22,11 +22,12 @@ Hi, I am a Ph.D. student in School of Electrical Engineering at Korea Advanced I
 #### Publications
 (C: conference, P: preprint, W: workshop \* equal contribution)
 
-[W] <strong>Improving Transferability of Representations via Augmentation-Aware Self-Supervision</strong> \\
+[C7/W] <strong>Improving Transferability of Representations via Augmentation-Aware Self-Supervision</strong> \\
 <strong><u>Hankook Lee</u></strong>, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
+*Neural Information Processing Systems (NeurIPS)*, 2021 \\
 ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception \\
-[[paper](/assets/AugSelf_ICML21_SSLworkshop_camera_ready.pdf)]
-[[poster](https://icml21ssl.github.io/pages/files/improving_poster.pdf)]
+[[workshop paper](/assets/AugSelf_ICML21_SSLworkshop_camera_ready.pdf)]
+[[workshop poster](https://icml21ssl.github.io/pages/files/improving_poster.pdf)]
 
 [C6] <strong>Self-Improved Retrosynthetic Planning</strong> \\
 Junsu Kim, Sungsoo Ahn, <strong><u>Hankook Lee</u></strong>, Jinwoo Shin \\
