@@ -1,0 +1,92 @@
+#+TITLE: Hankook Lee
+#+OPTIONS: num:nil toc:nil html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="main.css" />
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+#+HTML_HEAD: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+hankook.lee at kaist.ac.kr / [[file:assets/CV.pdf][Curriculum Vitae]] \\
+[[https://alinlab.kaist.ac.kr/][Algorithmic Intelligence Lab]], [[https://kaist.ac.kr/][KAIST]], Daejeon, Korea.
+#+BEGIN_EXPORT html
+<div style="text-align: center;">
+<img src="assets/image.jpeg" width="50%"> <br>
+<a href="https://twitter.com/hankook_lee"><i class="fab fa-twitter fa-2x"></i></a>
+<a href="https://github.com/hankook"><i class="fab fa-github fa-2x"></i></a>
+<a href="https://scholar.google.co.kr/citations?user=CgqswXUAAAAJ"><i class="ai ai-google-scholar fa-2x"></i></a>
+</div>
+#+END_EXPORT
+
+Hi, I am a Ph.D. student in School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]].
+
+* Publications
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: publications
+:END:
+
+- Improving Transferability of Representations via Augmentation-Aware Self-Supervision :: *_Hankook Lee_*, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
+  Neural Information Processing Systems (*NeurIPS*), 2021 \\
+  ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception \\
+  [[[file:assets/AugSelf_ICML21_SSLworkshop_camera_ready.pdf][workshop paper]]] [[[https://icml21ssl.github.io/pages/files/improving_poster.pdf][workshop poster]]]
+- Self-Improved Retrosynthetic Planning ::
+  Junsu Kim, Sungsoo Ahn, *_Hankook Lee_*, Jinwoo Shin \\
+  International Conference on Machine Learning (*ICML*), 2021 \\
+  [[[http://proceedings.mlr.press/v139/kim21b.html][paper]]] [[[https://arxiv.org/abs/2106.04880][arxiv]]] [[[https://icml.cc/media/icml-2021/Slides/10749.pdf][slide]]] [[[https://drive.google.com/file/d/1sbVoaw6eSYPK4WUxW34FNakfdwmlgcVu/view][poster]]] [[[https://github.com/junsu-kim97/self_improved_retro][code]]]
+- RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning ::
+  *_Hankook Lee_*, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
+  International Joint Conference on Artificial Intelligence (*IJCAI*), 2021 \\
+  NeurIPS Workshop for Machine Learning for Molecules, 2020 \\
+  [[[https://www.ijcai.org/proceedings/2021/0368.pdf][paper]]] [[[https://arxiv.org/abs/2105.00795][arxiv (long version)]]] [[[https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_42.pdf][workshop paper]]] [[[file:assets/poster_RetCL.png][workshop poster]]]
+- GTA: Graph Truncated Attention for Retrosynthesis ::
+  Seung-Woo Seo, You Young Song, June Yong Yang, Seohui Bae, *_Hankook Lee_*, Jinwoo Shin, Sung Ju Hwang, Eunho Yang \\
+  AAAI Conference on Artificial Intelligence (*AAAI*), 2021 \\
+  [[[https://www.aaai.org/AAAI21Papers/AAAI-10027.SeoS.pdf][paper]]]
+- Guiding Deep Molecular Optimization with Genetic Exploration ::
+  Sungsoo Ahn, Junsu Kim, *_Hankook Lee_*, Jinwoo Shin \\
+  Neural Information Processing Systems (*NeurIPS*), 2020 \\
+  [[[https://papers.nips.cc/paper/2020/hash/8ba6c657b03fc7c8dd4dff8e45defcd2-Abstract.html][paper]]] [[[https://arxiv.org/abs/2007.04897][arxiv]]] [[[https://github.com/sungsoo-ahn/genetic-expert-guided-learning][code]]]
+- Self-supervised Label Augmentation via Input Transformations ::
+  *_Hankook Lee_*, Sung Ju Hwang, Jinwoo Shin \\
+  International Conference on Machine Learning (*ICML*), 2020 \\
+  Qualcomm-KAIST Innovation Awards, 2019 \\
+  [[[http://proceedings.mlr.press/v119/lee20c.html][paper]]] [[[https://arxiv.org/abs/1910.05872][arxiv]]] [[[https://github.com/hankook/SLA][code]]] [[[https://icml.cc/virtual/2020/poster/6093][talk]]]
+- Learning What and Where to Transfer ::
+  Yunhun Jang\star, *_Hankook Lee_*\star, Sung Ju Hwang, Jinwoo Shin \\
+  International Conference on Machine Learning (*ICML*), 2019 \\
+  [[[http://proceedings.mlr.press/v97/jang19b.html][paper]]] [[[https://arxiv.org/abs/1905.05901][arxiv]]] [[[https://github.com/alinlab/L2T-ww][code]]] [[[https://icml.cc/media/Slides/icml/2019/103(13-09-00)-13-10-05-5011-learning_what_a.pdf][slide]]] [[[https://slideslive.com/38917771/supervised-and-transfer-learning][talk]] 55:14~59:09]
+- Anytime Neural Prediction via Slicing Networks Vertically ::
+  *_Hankook Lee_*, Jinwoo Shin \\
+  arXiv, 2018 \\
+  [[[https://arxiv.org/abs/1807.02609][arxiv]]] [[[https://github.com/hankook/IResNeXt][code]]]
+
+* Education
+- Korea Advanced Institute of Science and Technology (KAIST) ::
+  Daejeon, Korea, 2018. 09 - now \\
+  Ph.D. in Electrical Engineering (adviser: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
+- Korea Advanced Institute of Science and Technology (KAIST) ::
+  Daejeon, Korea, 2016. 03 - 2018. 08 \\
+  M.S. in Electrical Engineering (adviser: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
+- Korea Advanced Institute of Science and Technology (KAIST) ::
+  Daejeon, Korea, 2010. 02 - 2016. 02 \\
+  B.S. in Mathematical Science and Computer Science (double major)
+
+* Work Experience
+- Samsung Advanced Institute of Technology (SAIT) ::
+  Suwon, Korea, 2020. 01 - 2020.03 \\
+  Visiting Student
+- Frograms Inc. (changed to Watcha Inc. @ 2018) ::
+  Seoul, Korea, 2013. 08 - 2014. 12 \\
+  Research and Development Engineer
+
+* Awards
+- Qualcomm-KAIST Innovation Awards (2019)
+- International Collegiate Programming Contest (ICPC)
+  - Asia Daejeon Regional: 1st Place, *Grand* Prize (2012), 2nd Place, *Gold* Prize (2010)
+  - Participated in ICPC World Finals 2013
+- Korea Olympiad in Informatics (KOI) : *Gold* Prize (2009)
+
+* Services
+- Conference Reviewer
+  - ICLR (2020, 2021, 2022)
+  - NeurIPS (2020, 2021)
+  - ICML (2021)
+- Journal Reviewer
+  - ACM ToMPECS

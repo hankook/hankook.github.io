@@ -1,0 +1,28 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    line-height: 1.3;
+}
+
+.title {
+    text-align: left;
+}
+
+h2 {
+    color: #3D9970;
+    border-bottom: 1px solid #ddd;
+    margin-top: 1em;
+    padding-bottom: 4px;
+}
+
+.publications dt {
+    font-size: 110%;
+}
+
+dd {
+    padding-bottom: 5px;
+}
+
+a {
+    color:#0074D9;
+}
