@@ -15,7 +15,7 @@ hankook.lee at kaist.ac.kr / [[file:assets/CV.pdf][Curriculum Vitae]] \\
 </div>
 #+END_EXPORT
 
-Hi, I am a Ph.D. student advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]] at Korea Advanced Institute of Science and Technology (KAIST).
+Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]] at Korea Advanced Institute of Science and Technology (KAIST).
 
 * Publications
 :PROPERTIES:
