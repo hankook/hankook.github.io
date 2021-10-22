@@ -59,7 +59,7 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
 
 * Education
 - Korea Advanced Institute of Science and Technology (KAIST) ::
-  Daejeon, South Korea, 2018. 09 - now \\
+  Daejeon, South Korea, 2018. 09 - 2022. 09 (expected) \\
   Ph.D. in Electrical Engineering (advisor: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
 - Korea Advanced Institute of Science and Technology (KAIST) ::
   Daejeon, South Korea, 2016. 03 - 2018. 08 \\
