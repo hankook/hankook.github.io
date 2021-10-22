@@ -60,10 +60,10 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
 * Education
 - Korea Advanced Institute of Science and Technology (KAIST) ::
   Daejeon, South Korea, 2018. 09 - now \\
-  Ph.D. in Electrical Engineering (adviser: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
+  Ph.D. in Electrical Engineering (advisor: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
 - Korea Advanced Institute of Science and Technology (KAIST) ::
   Daejeon, South Korea, 2016. 03 - 2018. 08 \\
-  M.S. in Electrical Engineering (adviser: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
+  M.S. in Electrical Engineering (advisor: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
 - Korea Advanced Institute of Science and Technology (KAIST) ::
   Daejeon, South Korea, 2010. 02 - 2016. 02 \\
   B.S. in Mathematical Science and Computer Science (double major)
