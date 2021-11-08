@@ -88,5 +88,6 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
   - ICLR (2020, 2021, 2022)
   - NeurIPS (2020, 2021)
   - ICML (2021)
+  - AAAI (2022)
 - Journal Reviewer
   - ACM ToMPECS
