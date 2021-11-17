@@ -25,7 +25,7 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
 - Improving Transferability of Representations via Augmentation-Aware Self-Supervision :: *_Hankook Lee_*, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2021 \\
   ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception \\
-  [[[file:assets/AugSelf_ICML21_SSLworkshop_camera_ready.pdf][workshop paper]]] [[[https://icml21ssl.github.io/pages/files/improving_poster.pdf][workshop poster]]]
+  [[[https://openreview.net/forum?id=U34rQjnImpM][paper]]] [[[file:assets/AugSelf_ICML21_SSLworkshop_camera_ready.pdf][workshop paper]]] [[[https://icml21ssl.github.io/pages/files/improving_poster.pdf][workshop poster]]] [[[https://github.com/hankook/AugSelf][code]]]
 - Self-Improved Retrosynthetic Planning ::
   Junsu Kim, Sungsoo Ahn, *_Hankook Lee_*, Jinwoo Shin \\
   International Conference on Machine Learning (*ICML*), 2021 \\
