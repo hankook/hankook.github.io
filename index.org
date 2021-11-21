@@ -25,7 +25,7 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
 - Improving Transferability of Representations via Augmentation-Aware Self-Supervision :: *_Hankook Lee_*, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2021 \\
   ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception \\
-  [[[https://openreview.net/forum?id=U34rQjnImpM][paper]]] [[[https://arxiv.org/abs/2111.09613][arxiv]]] [[[file:assets/AugSelf_ICML21_SSLworkshop_camera_ready.pdf][workshop paper]]] [[[https://icml21ssl.github.io/pages/files/improving_poster.pdf][workshop poster]]] [[[https://github.com/hankook/AugSelf][code]]]
+  [[[https://openreview.net/forum?id=U34rQjnImpM][paper]]] [[[https://arxiv.org/abs/2111.09613][arxiv]]] [[[file:assets/AugSelf_NeurIPS2021_slide.pdf][slide]]] [[[file:assets/AugSelf_NeurIPS2021_poster.pdf][poster]]] [[[https://github.com/hankook/AugSelf][code]]]
 - Self-Improved Retrosynthetic Planning ::
   Junsu Kim, Sungsoo Ahn, *_Hankook Lee_*, Jinwoo Shin \\
   International Conference on Machine Learning (*ICML*), 2021 \\
@@ -34,7 +34,7 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
   *_Hankook Lee_*, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
   International Joint Conference on Artificial Intelligence (*IJCAI*), 2021 \\
   NeurIPS Workshop for Machine Learning for Molecules, 2020 \\
-  [[[https://www.ijcai.org/proceedings/2021/0368.pdf][paper]]] [[[https://arxiv.org/abs/2105.00795][arxiv (long version)]]] [[[https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_42.pdf][workshop paper]]] [[[file:assets/poster_RetCL.png][workshop poster]]]
+  [[[https://www.ijcai.org/proceedings/2021/0368.pdf][paper]]] [[[https://arxiv.org/abs/2105.00795][arxiv (long version)]]] [[[file:assets/RetCL_IJCAI2021_slide.pdf][slide]]] [[[file:assets/RetCL_IJCAI2021_poster.pdf][poster]]]
 - GTA: Graph Truncated Attention for Retrosynthesis ::
   Seung-Woo Seo, You Young Song, June Yong Yang, Seohui Bae, *_Hankook Lee_*, Jinwoo Shin, Sung Ju Hwang, Eunho Yang \\
   AAAI Conference on Artificial Intelligence (*AAAI*), 2021 \\
