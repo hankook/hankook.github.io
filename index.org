@@ -22,6 +22,8 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
 :HTML_CONTAINER_CLASS: publications
 :END:
 
+(*\star* equal contribution)
+
 - Improving Transferability of Representations via Augmentation-Aware Self-Supervision :: *_Hankook Lee_*, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2021 \\
   ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception \\
@@ -36,7 +38,7 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
   NeurIPS Workshop for Machine Learning for Molecules, 2020 \\
   [[[https://www.ijcai.org/proceedings/2021/0368.pdf][paper]]] [[[https://arxiv.org/abs/2105.00795][arxiv (long version)]]] [[[file:assets/RetCL_IJCAI2021_slide.pdf][slide]]] [[[file:assets/RetCL_IJCAI2021_poster.pdf][poster]]]
 - GTA: Graph Truncated Attention for Retrosynthesis ::
-  Seung-Woo Seo, You Young Song, June Yong Yang, Seohui Bae, *_Hankook Lee_*, Jinwoo Shin, Sung Ju Hwang, Eunho Yang \\
+  Seung-Woo Seo\star, You Young Song\star, June Yong Yang, Seohui Bae, *_Hankook Lee_*, Jinwoo Shin, Sung Ju Hwang, Eunho Yang \\
   AAAI Conference on Artificial Intelligence (*AAAI*), 2021 \\
   [[[https://www.aaai.org/AAAI21Papers/AAAI-10027.SeoS.pdf][paper]]]
 - Guiding Deep Molecular Optimization with Genetic Exploration ::
@@ -49,7 +51,7 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
   Qualcomm-KAIST Innovation Awards, 2019 \\
   [[[http://proceedings.mlr.press/v119/lee20c.html][paper]]] [[[https://arxiv.org/abs/1910.05872][arxiv]]] [[[https://github.com/hankook/SLA][code]]] [[[https://icml.cc/virtual/2020/poster/6093][talk]]]
 - Learning What and Where to Transfer ::
-  Yunhun Jang\star, *_Hankook Lee_*\star, Sung Ju Hwang, Jinwoo Shin (\star equal contribution)\\
+  Yunhun Jang\star, *_Hankook Lee_*\star, Sung Ju Hwang, Jinwoo Shin \\
   International Conference on Machine Learning (*ICML*), 2019 \\
   [[[http://proceedings.mlr.press/v97/jang19b.html][paper]]] [[[https://arxiv.org/abs/1905.05901][arxiv]]] [[[https://github.com/alinlab/L2T-ww][code]]] [[[https://icml.cc/media/Slides/icml/2019/103(13-09-00)-13-10-05-5011-learning_what_a.pdf][slide]]] [[[https://slideslive.com/38917771/supervised-and-transfer-learning][talk]] 55:14~59:09]
 - Anytime Neural Prediction via Slicing Networks Vertically ::
