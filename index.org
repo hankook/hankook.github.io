@@ -49,7 +49,7 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
   Qualcomm-KAIST Innovation Awards, 2019 \\
   [[[http://proceedings.mlr.press/v119/lee20c.html][paper]]] [[[https://arxiv.org/abs/1910.05872][arxiv]]] [[[https://github.com/hankook/SLA][code]]] [[[https://icml.cc/virtual/2020/poster/6093][talk]]]
 - Learning What and Where to Transfer ::
-  Yunhun Jang\star, *_Hankook Lee_*\star, Sung Ju Hwang, Jinwoo Shin \\
+  Yunhun Jang\star, *_Hankook Lee_*\star, Sung Ju Hwang, Jinwoo Shin (\star equal contribution)\\
   International Conference on Machine Learning (*ICML*), 2019 \\
   [[[http://proceedings.mlr.press/v97/jang19b.html][paper]]] [[[https://arxiv.org/abs/1905.05901][arxiv]]] [[[https://github.com/alinlab/L2T-ww][code]]] [[[https://icml.cc/media/Slides/icml/2019/103(13-09-00)-13-10-05-5011-learning_what_a.pdf][slide]]] [[[https://slideslive.com/38917771/supervised-and-transfer-learning][talk]] 55:14~59:09]
 - Anytime Neural Prediction via Slicing Networks Vertically ::
