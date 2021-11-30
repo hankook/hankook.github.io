@@ -81,7 +81,7 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
 * Awards
 - Qualcomm-KAIST Innovation Awards (2019)
 - International Collegiate Programming Contest (ICPC)
-  - Asia Daejeon Regional: 1st Place, *Grand* Prize (2012), 2nd Place, *Gold* Prize (2010)
+  - Asia Daejeon Regional: *Grand* Prize (1st place, 2012), *Gold* Prize (2nd place, 2010)
   - Participated in ICPC World Finals 2013
 - Korea Olympiad in Informatics (KOI) : *Gold* Prize (2009)
 
