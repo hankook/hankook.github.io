@@ -24,7 +24,11 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
 
 (*\star* equal contribution)
 
-- Improving Transferability of Representations via Augmentation-Aware Self-Supervision :: *_Hankook Lee_*, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
+- Patch-level Representation Learning for Self-supervised Vision Transformers ::
+  Sukmin Yun, *_Hankook Lee_*, Jaehyung Kim, Jinwoo Shin \\
+  Computer Vision and Pattern Recognition (*CVPR*), 2022
+- Improving Transferability of Representations via Augmentation-Aware Self-Supervision ::
+  *_Hankook Lee_*, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2021 \\
   ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception \\
   [[[https://openreview.net/forum?id=U34rQjnImpM][paper]]] [[[https://arxiv.org/abs/2111.09613][arxiv]]] [[[file:assets/AugSelf_NeurIPS2021_slide.pdf][slide]]] [[[file:assets/AugSelf_NeurIPS2021_poster.pdf][poster]]] [[[https://github.com/hankook/AugSelf][code]]]
