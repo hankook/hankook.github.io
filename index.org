@@ -4,7 +4,7 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-hankook.lee at kaist.ac.kr / [[file:assets/CV.pdf][Curriculum Vitae]] \\
+hankook.lee at kaist.ac.kr \\
 [[https://alinlab.kaist.ac.kr/][Algorithmic Intelligence Lab]], [[https://kaist.ac.kr/][KAIST]], Daejeon, South Korea.
 #+BEGIN_EXPORT html
 <div style="text-align: center;">
@@ -12,6 +12,7 @@ hankook.lee at kaist.ac.kr / [[file:assets/CV.pdf][Curriculum Vitae]] \\
 <a href="https://twitter.com/hankook_lee"><i class="fab fa-twitter fa-2x"></i></a>
 <a href="https://github.com/hankook"><i class="fab fa-github fa-2x"></i></a>
 <a href="https://scholar.google.co.kr/citations?user=CgqswXUAAAAJ"><i class="ai ai-google-scholar fa-2x"></i></a>
+<a href="assets/CV.pdf"><i class="ai ai-cv fa-2x"></i></a>
 </div>
 #+END_EXPORT
 
@@ -95,5 +96,6 @@ Hi, I am a Ph.D. candidate advised by Prof. [[https://alinlab.kaist.ac.kr/shin.h
   - NeurIPS (2020, 2021)
   - ICML (2021)
   - AAAI (2022)
+  - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021)
 - Journal Reviewer
   - ACM ToMPECS
