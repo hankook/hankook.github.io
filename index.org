@@ -33,7 +33,7 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
 
 - Patch-level Representation Learning for Self-supervised Vision Transformers ::
   Sukmin Yun, *_Hankook Lee_*, Jaehyung Kim, Jinwoo Shin \\
-  Computer Vision and Pattern Recognition (*CVPR*), 2022
+  Computer Vision and Pattern Recognition (*CVPR*), /Oral Presentation/, 2022
 - Improving Transferability of Representations via Augmentation-Aware Self-Supervision ::
   *_Hankook Lee_*, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2021 \\
