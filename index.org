@@ -31,6 +31,21 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
 
 (*\star* equal contribution)
 
+#+BEGIN_COMMENT
+- Guiding Energy-based Models via Contrastive Latent Variables ::
+  *_Hankook Lee_*, Jongheon Jeong, Sejun Park, Jinwoo Shin \\
+  under review, 2022
+- Meta-Learning with Self-Improving Momentum Target ::
+  Jihoon Tack, Jongjin Park, *_Hankook Lee_*, Jaeho Lee, Jinwoo Shin \\
+  under review, 2022
+- Learning Robust Representations via Nuisance-extended Information Bottleneck ::
+  Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
+  under review, 2022
+- FragCL: Fragmentation-Based Contrastive Learning for Molecule Representation ::
+  Seojin Kim, Jaehyun Nam, Junsu Kim, *_Hankook Lee_*, Sungsoo Ahn, Jinwoo Shin \\
+  under review, 2022
+#+END_COMMENT
+
 - Patch-level Representation Learning for Self-supervised Vision Transformers ::
   Sukmin Yun, *_Hankook Lee_*, Jaehyung Kim, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), /Oral Presentation/, 2022
@@ -72,7 +87,7 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
 
 * Education
 - Korea Advanced Institute of Science and Technology (KAIST) ::
-  Daejeon, South Korea, 2016. 03 - 2022. 09 (expected) \\
+  Daejeon, South Korea, 2016. 03 - 2022. 08 \\
   M.S. & Ph.D. in Electrical Engineering (advisor: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
 - Korea Advanced Institute of Science and Technology (KAIST) ::
   Daejeon, South Korea, 2010. 02 - 2016. 02 \\
@@ -96,9 +111,10 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
 * Services
 - Conference Reviewer
   - ICLR (2020, 2021, 2022)
-  - NeurIPS (2020, 2021)
+  - NeurIPS (2020, 2021, 2022)
   - ICML (2021)
   - AAAI (2022)
-  - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021)
+  - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021, ECCV 2022)
 - Journal Reviewer
   - ACM ToMPECS
+  - IEEE TPAMI
