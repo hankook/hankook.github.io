@@ -31,7 +31,6 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
 
 (*\star* equal contribution)
 
-#+BEGIN_COMMENT
 - Guiding Energy-based Models via Contrastive Latent Variables ::
   *_Hankook Lee_*, Jongheon Jeong, Sejun Park, Jinwoo Shin \\
   under review, 2022
@@ -44,8 +43,6 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
 - FragCL: Fragmentation-Based Contrastive Learning for Molecule Representation ::
   Seojin Kim, Jaehyun Nam, Junsu Kim, *_Hankook Lee_*, Sungsoo Ahn, Jinwoo Shin \\
   under review, 2022
-#+END_COMMENT
-
 - Patch-level Representation Learning for Self-supervised Vision Transformers ::
   Sukmin Yun, *_Hankook Lee_*, Jaehyung Kim, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), /Oral Presentation/, 2022 \\
