@@ -60,7 +60,7 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
   *_Hankook Lee_*, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
   International Joint Conference on Artificial Intelligence (*IJCAI*), 2021 \\
   NeurIPS Workshop for Machine Learning for Molecules, 2020 \\
-  [[[https://www.ijcai.org/proceedings/2021/0368.pdf][paper]]] [[[https://arxiv.org/abs/2105.00795][arxiv (long version)]]] [[[file:assets/RetCL_IJCAI2021_slide.pdf][slide]]] [[[file:assets/RetCL_IJCAI2021_poster.pdf][poster]]]
+  [[[https://www.ijcai.org/proceedings/2021/0368.pdf][paper]]] [[[https://arxiv.org/abs/2105.00795][arxiv (long version)]]] [[[file:assets/RetCL_IJCAI2021_slide.pdf][slide]]] [[[file:assets/RetCL_IJCAI2021_poster.pdf][poster]]] [[[https://github.com/hankook/RetCL][code]]]
 - GTA: Graph Truncated Attention for Retrosynthesis ::
   Seung-Woo Seo\star, You Young Song\star, June Yong Yang, Seohui Bae, *_Hankook Lee_*, Jinwoo Shin, Sung Ju Hwang, Eunho Yang \\
   AAAI Conference on Artificial Intelligence (*AAAI*), 2021 \\
