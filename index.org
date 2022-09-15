@@ -22,7 +22,7 @@ hankook.lee at kaist.ac.kr \\
 </div>
 #+END_EXPORT
 
-I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]]. My research has investigated how to learn deep neural networks with limited human prior knowledge. Specifically, my interests include self-supervised learning, transfer learning, data augmentation, and real-world applications with limited labels.
+I am a postdoctoral researcher at Korea Advanced Institute of Science and Technology (KAIST). Prior to this, I completed my Ph.D. degree in the School of Electrical Engineering at KAIST, advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]]. My research has investigated how to learn deep neural networks with limited human prior knowledge. Specifically, my interests include self-supervised learning, transfer learning, data augmentation, and real-world applications with limited labels.
 
 * Publications
 :PROPERTIES:
@@ -33,16 +33,16 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
 
 - Guiding Energy-based Models via Contrastive Latent Variables ::
   *_Hankook Lee_*, Jongheon Jeong, Sejun Park, Jinwoo Shin \\
-  under review, 2022
-- Meta-Learning with Self-Improving Momentum Target ::
-  Jihoon Tack, Jongjin Park, *_Hankook Lee_*, Jaeho Lee, Jinwoo Shin \\
-  under review, 2022
-- Learning Robust Representations via Nuisance-extended Information Bottleneck ::
-  Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
-  under review, 2022
+  /preprint/
 - FragCL: Fragmentation-Based Contrastive Learning for Molecule Representation ::
   Seojin Kim, Jaehyun Nam, Junsu Kim, *_Hankook Lee_*, Sungsoo Ahn, Jinwoo Shin \\
-  under review, 2022
+  /preprint/
+- Meta-Learning with Self-Improving Momentum Target ::
+  Jihoon Tack, Jongjin Park, *_Hankook Lee_*, Jaeho Lee, Jinwoo Shin \\
+  Neural Information Processing Systems (*NeurIPS*), 2022
+- Learning Robust Representations via Nuisance-extended Information Bottleneck ::
+  Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
+  ECCV Workshop on Out-of-distribution Generalization in Computer Vision (*OOD-CV*), 2022
 - Patch-level Representation Learning for Self-supervised Vision Transformers ::
   Sukmin Yun, *_Hankook Lee_*, Jaehyung Kim, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), /Oral Presentation/, 2022 \\
@@ -108,10 +108,10 @@ I am a Ph.D. candidate in the School of Electrical Engineering at Korea Advanced
 
 * Services
 - Conference Reviewer
-  - ICLR (2020, 2021, 2022)
+  - ICLR (2020, 2021, 2022, 2023)
   - NeurIPS (2020, 2021, 2022)
   - ICML (2021, 2022)
-  - AAAI (2022)
+  - AAAI (2022, 2023)
   - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021, ECCV 2022)
 - Journal Reviewer
   - ACM ToMPECS
