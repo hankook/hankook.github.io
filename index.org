@@ -115,7 +115,7 @@ I am a postdoctoral researcher at Korea Advanced Institute of Science and Techno
   - NeurIPS (2020, 2021, 2022)
   - ICML (2021, 2022)
   - AAAI (2022, 2023)
-  - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021, ECCV 2022)
+  - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021-2022, ECCV 2022)
 - Journal Reviewer
   - ACM ToMPECS
   - IEEE TPAMI
