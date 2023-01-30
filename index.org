@@ -31,18 +31,26 @@ I am a postdoctoral researcher at Korea Advanced Institute of Science and Techno
 
 *C*: Conference / *W*: Workshop / *P*: Preprint / *\star*: equal contribution
 
-- [W4] STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables ::
+- [C12] STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables ::
   Jaehyun Nam, Jihoon Tack, Kyungmin Lee, *_Hankook Lee_*, Jinwoo Shin \\
-  Neural Information Processing Systems Workshop on Table Representation Learning (*NeurIPSW-TRL*), 2022
-- [W3] Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning ::
+  International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
+  Neural Information Processing Systems Workshop on Table Representation Learning (*NeurIPSW-TRL*), 2022 \\
+  Samsung Humantech Paper Awards, Bronze Prize, 2023 \\
+  [[[https://openreview.net/forum?id=_xlsjehDvlY][paper]]]
+- [C11] Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning ::
   Huiwon Jang\star, *_Hankook Lee_*\star, Jinwoo Shin \\
-  Neural Information Processing Systems Workshop on Meta-Learning (*NeurIPSW-MetaLearn*), 2022
-- [W2] Guiding Energy-based Models via Contrastive Latent Variables ::
+  International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
+  Neural Information Processing Systems Workshop on Meta-Learning (*NeurIPSW-MetaLearn*), 2022 \\
+  [[[https://openreview.net/forum?id=TdTGGj7fYYJ][paper]]]
+- [C10] Guiding Energy-based Models via Contrastive Latent Variables ::
   *_Hankook Lee_*, Jongheon Jeong, Sejun Park, Jinwoo Shin \\
-  Neural Information Processing Systems Workshop on Self-Supervised Learning (*NeurIPSW-SSL*), /Oral Presentation/, 2022
+  International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
+  Neural Information Processing Systems Workshop on Self-Supervised Learning (*NeurIPSW-SSL*), /Oral Presentation/, 2022 \\
+  [[[https://openreview.net/forum?id=CZmHHj9MgkP][paper]]]
 - [C9] Meta-Learning with Self-Improving Momentum Target ::
   Jihoon Tack, Jongjin Park, *_Hankook Lee_*, Jaeho Lee, Jinwoo Shin \\
-  Neural Information Processing Systems (*NeurIPS*), 2022
+  Neural Information Processing Systems (*NeurIPS*), 2022 \\
+  [[[https://openreview.net/forum?id=FCNMbF_TsKm][paper]]] [[[https://arxiv.org/abs/2210.05185][arxiv]]] [[[https://jihoontack.github.io/assets/simt_slide.pdf][slide]]] [[[https://jihoontack.github.io/assets/simt_poster.pdf][poster]]] [[[https://github.com/jihoontack/SiMT][code]]]
 - [W1] Learning Robust Representations via Nuisance-extended Information Bottleneck ::
   Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
   ECCV Workshop on Out-of-distribution Generalization in Computer Vision (*ECCVW-OOD-CV*), 2022
