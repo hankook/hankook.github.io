@@ -75,7 +75,7 @@ I am a postdoctoral researcher at Korea Advanced Institute of Science and Techno
 - [C4] GTA: Graph Truncated Attention for Retrosynthesis ::
   Seung-Woo Seo\star, You Young Song\star, June Yong Yang, Seohui Bae, *_Hankook Lee_*, Jinwoo Shin, Sung Ju Hwang, Eunho Yang \\
   AAAI Conference on Artificial Intelligence (*AAAI*), 2021 \\
-  [[[https://www.aaai.org/AAAI21Papers/AAAI-10027.SeoS.pdf][paper]]]
+  [[[https://ojs.aaai.org/index.php/AAAI/article/view/16131][paper]]]
 - [C3] Guiding Deep Molecular Optimization with Genetic Exploration ::
   Sungsoo Ahn, Junsu Kim, *_Hankook Lee_*, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2020 \\
