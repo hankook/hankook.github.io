@@ -4,8 +4,8 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-hankook.lee at kaist.ac.kr \\
-[[https://alinlab.kaist.ac.kr/][Algorithmic Intelligence Lab]], [[https://kaist.ac.kr/][KAIST]], Daejeon, South Korea.
+*Research Scientist* @ Advanced ML Lab, LG AI Research, South Korea \\
+/hankook.lee at lgresearch.ai/
 #+BEGIN_EXPORT html
 <div style="text-align: center;">
 <img src="assets/image.jpeg" width="50%"> <br>
@@ -16,13 +16,7 @@ hankook.lee at kaist.ac.kr \\
 </div>
 #+END_EXPORT
 
-#+BEGIN_EXPORT html
-<div style="text-align: center; color: #3D9970">
-<h3>I am currently on the job market!</h3>
-</div>
-#+END_EXPORT
-
-I am a postdoctoral researcher at Korea Advanced Institute of Science and Technology (KAIST). Prior to this, I completed my Ph.D. degree in the School of Electrical Engineering at KAIST, advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]]. My research has investigated how to learn deep neural networks with limited human prior knowledge. Specifically, my interests include self-supervised learning, transfer learning, data augmentation, and real-world applications with limited labels.
+I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prior to this, I worked at Korea Advanced Institute of Science and Technology ([[https://kaist.ac.kr][KAIST]]) as a Postdoctoral Researcher. I completed my Ph.D. degree in the School of Electrical Engineering at KAIST, advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]]. My research has investigated how to learn deep neural networks with limited human prior knowledge. Specifically, my interests include self-supervised learning, transfer learning, data augmentation, and real-world applications with limited labels.
 
 * Publications
 :PROPERTIES:
@@ -31,29 +25,30 @@ I am a postdoctoral researcher at Korea Advanced Institute of Science and Techno
 
 *C*: Conference / *W*: Workshop / *P*: Preprint / *\star*: equal contribution
 
+- [C13] Learning Robust Representations via Nuisance-extended Information Bottleneck ::
+  Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
+  Computer Vision and Pattern Recognition (*CVPR*), 2023 \\
+  ECCV Workshop on Out-of-distribution Generalization in Computer Vision (*ECCVW-OOD-CV*), 2022
 - [C12] STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables ::
   Jaehyun Nam, Jihoon Tack, Kyungmin Lee, *_Hankook Lee_*, Jinwoo Shin \\
   International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
   Neural Information Processing Systems Workshop on Table Representation Learning (*NeurIPSW-TRL*), 2022 \\
   Samsung Humantech Paper Awards, Bronze Prize, 2023 \\
-  [[[https://openreview.net/forum?id=_xlsjehDvlY][paper]]]
+  [[[https://openreview.net/forum?id=_xlsjehDvlY][paper]]] [[[https://github.com/jaehyun513/STUNT][code]]]
 - [C11] Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning ::
   Huiwon Jang\star, *_Hankook Lee_*\star, Jinwoo Shin \\
   International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
   Neural Information Processing Systems Workshop on Meta-Learning (*NeurIPSW-MetaLearn*), 2022 \\
-  [[[https://openreview.net/forum?id=TdTGGj7fYYJ][paper]]]
+  [[[https://openreview.net/forum?id=TdTGGj7fYYJ][paper]]] [[[https://arxiv.org/abs/2303.00996][arxiv]]] [[[https://github.com/alinlab/PsCo][code]]]
 - [C10] Guiding Energy-based Models via Contrastive Latent Variables ::
   *_Hankook Lee_*, Jongheon Jeong, Sejun Park, Jinwoo Shin \\
   International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
   Neural Information Processing Systems Workshop on Self-Supervised Learning (*NeurIPSW-SSL*), /Oral Presentation/, 2022 \\
-  [[[https://openreview.net/forum?id=CZmHHj9MgkP][paper]]]
+  [[[https://openreview.net/forum?id=CZmHHj9MgkP][paper]]] [[[https://github.com/hankook/CLEL][code]]]
 - [C9] Meta-Learning with Self-Improving Momentum Target ::
   Jihoon Tack, Jongjin Park, *_Hankook Lee_*, Jaeho Lee, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2022 \\
   [[[https://openreview.net/forum?id=FCNMbF_TsKm][paper]]] [[[https://arxiv.org/abs/2210.05185][arxiv]]] [[[https://jihoontack.github.io/assets/simt_slide.pdf][slide]]] [[[https://jihoontack.github.io/assets/simt_poster.pdf][poster]]] [[[https://github.com/jihoontack/SiMT][code]]]
-- [W1] Learning Robust Representations via Nuisance-extended Information Bottleneck ::
-  Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
-  ECCV Workshop on Out-of-distribution Generalization in Computer Vision (*ECCVW-OOD-CV*), 2022
 - [C8] Patch-level Representation Learning for Self-supervised Vision Transformers ::
   Sukmin Yun, *_Hankook Lee_*, Jaehyung Kim, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), /Oral Presentation/, 2022 \\
@@ -124,7 +119,7 @@ I am a postdoctoral researcher at Korea Advanced Institute of Science and Techno
 * Services
 - Conference Reviewer:
   - *ICLR* (2020-2023)
-  - *NeurIPS* (2020, 2021, 2022)
+  - *NeurIPS* (2020-2022)
   - *ICML* (2021-2023)
   - *AAAI* (2022-2023)
   - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021-2022, ECCV 2022)
