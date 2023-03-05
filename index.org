@@ -25,7 +25,7 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
 
 *C*: Conference / *W*: Workshop / *P*: Preprint / *\star*: equal contribution
 
-- [C13] Learning Robust Representations via Nuisance-extended Information Bottleneck ::
+- [C13] Enhancing Multiple Reliability Measures via Nuisance-extended Information Bottleneck ::
   Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), 2023 \\
   ECCV Workshop on Out-of-distribution Generalization in Computer Vision (*ECCVW-OOD-CV*), 2022
