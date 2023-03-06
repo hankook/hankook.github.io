@@ -25,6 +25,9 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
 
 *C*: Conference / *W*: Workshop / *P*: Preprint / *\star*: equal contribution
 
+- [W] Fragment-based Multi-view Molecular Contrastive Learning ::
+  Seojin Kim\star, Jaehyun Nam\star, Junsu Kim, *_Hankook Lee_*, Sungsoo Ahn, Jinwoo Shin \\
+  ICLR Workshop on Machine Learning for Materials (ML4Materials), 2023
 - [C13] Enhancing Multiple Reliability Measures via Nuisance-extended Information Bottleneck ::
   Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), 2023 \\
