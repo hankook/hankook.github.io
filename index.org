@@ -47,7 +47,7 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
   *_Hankook Lee_*, Jongheon Jeong, Sejun Park, Jinwoo Shin \\
   International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
   Neural Information Processing Systems Workshop on Self-Supervised Learning (*NeurIPSW-SSL*), /Oral Presentation/, 2022 \\
-  [[[https://openreview.net/forum?id=CZmHHj9MgkP][paper]]] [[[https://github.com/hankook/CLEL][code]]]
+  [[[https://openreview.net/forum?id=CZmHHj9MgkP][paper]]] [[[https://arxiv.org/abs/2303.03023][arxiv]]] [[[https://github.com/hankook/CLEL][code]]]
 - [C9] Meta-Learning with Self-Improving Momentum Target ::
   Jihoon Tack, Jongjin Park, *_Hankook Lee_*, Jaeho Lee, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2022 \\
