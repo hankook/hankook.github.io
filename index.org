@@ -48,7 +48,8 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
 - [C13] Enhancing Multiple Reliability Measures via Nuisance-extended Information Bottleneck ::
   Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), 2023 \\
-  ECCV Workshop on Out-of-distribution Generalization in Computer Vision (*ECCVW-OOD-CV*), 2022
+  ECCV Workshop on Out-of-distribution Generalization in Computer Vision (*ECCVW-OOD-CV*), 2022 \\
+  [[[https://openaccess.thecvf.com/content/CVPR2023/papers/Jeong_Enhancing_Multiple_Reliability_Measures_via_Nuisance-Extended_Information_Bottleneck_CVPR_2023_paper.pdf][paper]]] [[[https://arxiv.org/abs/2303.14096][arxiv]]]
 - [C12] STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables ::
   Jaehyun Nam, Jihoon Tack, Kyungmin Lee, *_Hankook Lee_*, Jinwoo Shin \\
   International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
