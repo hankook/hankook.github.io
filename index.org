@@ -25,9 +25,26 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
 
 *C*: Conference / *W*: Workshop / *P*: Preprint / *\star*: equal contribution
 
-- [W] Fragment-based Multi-view Molecular Contrastive Learning ::
+- [C14] Projection Regret: Reducing Background Bias for Novelty Detection via Diffusion Models ::
+  Sungik Choi, *_Hankook Lee_*, Honglak Lee, Moontae Lee \\
+  Neural Information Processing Systems (*NeurIPS*), 2023 \\
+  [[[https://openreview.net/forum?id=3qHlPqzjM1][paper]]]
+- [W4] Diffusion-based Semantic-Discrepant Outlier Generation for Out-of-Distribution Detection ::
+  Suhee Yoon\star, Sanghyu Yoon\star, *_Hankook Lee_*, Sangjun Han, Ye Seul Sim, Kyungeun Lee, Hyeseung Cho, Woohyung Lim \\
+  NeurIPS Workshop on Synthetic Data Generation with Generative AI (*SyntheticData4ML*), 2023 \\
+  [[[https://openreview.net/forum?id=0jAd2k8JV4][paper]]]
+- [W3] Few-shot Anomaly Detection via Personalization ::
+  Sangkyung Kwak, Jongheon Jeong, *_Hankook Lee_*, Woohyuck Kim, Jinwoo Shin \\
+  ICML Workshop on New Frontiers in Adversarial Machine Learning (*AdvML-Frontiers*), 2023 \\
+  [[[https://openreview.net/forum?id=6qCJRVUG12][paper]]]
+- [W2] Mixed-Curvature Transformers for Graph Representation Learning ::
+  Sungjun Cho, Seunghyuk Cho, Sungwoo Park, *_Hankook Lee_*, Honglak Lee, Moontae Lee \\
+  ICML Workshop on Topology, Algebra, and Geometry in Machine Learning (*TAG-ML*), 2023 \\
+  [[[https://openreview.net/forum?id=DFnk58DwTE][paper]]]
+- [W1] Fragment-based Multi-view Molecular Contrastive Learning ::
   Seojin Kim\star, Jaehyun Nam\star, Junsu Kim, *_Hankook Lee_*, Sungsoo Ahn, Jinwoo Shin \\
-  ICLR Workshop on Machine Learning for Materials (ML4Materials), 2023
+  ICLR Workshop on Machine Learning for Materials (*ML4Materials*), 2023 \\
+  [[[https://openreview.net/forum?id=9lGwd4q8KJc][paper]]]
 - [C13] Enhancing Multiple Reliability Measures via Nuisance-extended Information Bottleneck ::
   Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), 2023 \\
@@ -112,7 +129,6 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
   Research and Development Engineer
 
 * Awards
-- Samsung Humantech Paper Awards: Bronze Prize (2023)
 - Qualcomm-KAIST Innovation Awards (2019)
 - International Collegiate Programming Contest (ICPC)
   - Asia Daejeon Regional: *Grand* Prize (1st place, 2012), *Gold* Prize (2nd place, 2010)
@@ -121,10 +137,10 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
 
 * Services
 - Conference Reviewer:
-  - *ICLR* (2020-2023)
+  - *ICLR* (2020-2024)
   - *NeurIPS* (2020-2022)
   - *ICML* (2021-2023)
-  - *AAAI* (2022-2023)
+  - *AAAI* (2022-2024)
   - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021-2022, ECCV 2022)
 - Journal Reviewer:
   - ACM *ToMPECS*
