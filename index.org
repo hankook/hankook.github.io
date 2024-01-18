@@ -23,8 +23,13 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
 :HTML_CONTAINER_CLASS: publications
 :END:
 
-*C*: Conference / *W*: Workshop / *P*: Preprint / *\star*: equal contribution
+*J*: Journal / *C*: Conference / *W*: Workshop / *P*: Preprint / *\star*: equal contribution
 
+- [J1/W] Few-shot Anomaly Detection via Personalization ::
+  Sangkyung Kwak, Jongheon Jeong, *_Hankook Lee_*, Woohyuck Kim, Dongho Seo, Woojin Yun, Wonjin Lee, Jinwoo Shin \\
+  IEEE Access, 2024 \\
+  ICML Workshop on New Frontiers in Adversarial Machine Learning (*AdvML-Frontiers*), 2023 \\
+  [[[https://ieeexplore.ieee.org/document/10401164][paper]]]
 - [C14] Projection Regret: Reducing Background Bias for Novelty Detection via Diffusion Models ::
   Sungik Choi, *_Hankook Lee_*, Honglak Lee, Moontae Lee \\
   Neural Information Processing Systems (*NeurIPS*), 2023 \\
@@ -33,10 +38,6 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
   Suhee Yoon\star, Sanghyu Yoon\star, *_Hankook Lee_*, Sangjun Han, Ye Seul Sim, Kyungeun Lee, Hyeseung Cho, Woohyung Lim \\
   NeurIPS Workshop on Synthetic Data Generation with Generative AI (*SyntheticData4ML*), 2023 \\
   [[[https://openreview.net/forum?id=0jAd2k8JV4][paper]]]
-- [W3] Few-shot Anomaly Detection via Personalization ::
-  Sangkyung Kwak, Jongheon Jeong, *_Hankook Lee_*, Woohyuck Kim, Jinwoo Shin \\
-  ICML Workshop on New Frontiers in Adversarial Machine Learning (*AdvML-Frontiers*), 2023 \\
-  [[[https://openreview.net/forum?id=6qCJRVUG12][paper]]]
 - [W2] Mixed-Curvature Transformers for Graph Representation Learning ::
   Sungjun Cho, Seunghyuk Cho, Sungwoo Park, *_Hankook Lee_*, Honglak Lee, Moontae Lee \\
   ICML Workshop on Topology, Algebra, and Geometry in Machine Learning (*TAG-ML*), 2023 \\
@@ -45,23 +46,23 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
   Seojin Kim\star, Jaehyun Nam\star, Junsu Kim, *_Hankook Lee_*, Sungsoo Ahn, Jinwoo Shin \\
   ICLR Workshop on Machine Learning for Materials (*ML4Materials*), 2023 \\
   [[[https://openreview.net/forum?id=9lGwd4q8KJc][paper]]]
-- [C13] Enhancing Multiple Reliability Measures via Nuisance-extended Information Bottleneck ::
+- [C13/W] Enhancing Multiple Reliability Measures via Nuisance-extended Information Bottleneck ::
   Jongheon Jeong, Sihyun Yu, *_Hankook Lee_*, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), 2023 \\
   ECCV Workshop on Out-of-distribution Generalization in Computer Vision (*ECCVW-OOD-CV*), 2022 \\
   [[[https://openaccess.thecvf.com/content/CVPR2023/papers/Jeong_Enhancing_Multiple_Reliability_Measures_via_Nuisance-Extended_Information_Bottleneck_CVPR_2023_paper.pdf][paper]]] [[[https://arxiv.org/abs/2303.14096][arxiv]]]
-- [C12] STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables ::
+- [C12/W] STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables ::
   Jaehyun Nam, Jihoon Tack, Kyungmin Lee, *_Hankook Lee_*, Jinwoo Shin \\
   International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
   Neural Information Processing Systems Workshop on Table Representation Learning (*NeurIPSW-TRL*), 2022 \\
   Samsung Humantech Paper Awards, Bronze Prize, 2023 \\
   [[[https://openreview.net/forum?id=_xlsjehDvlY][paper]]] [[[https://github.com/jaehyun513/STUNT][code]]]
-- [C11] Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning ::
+- [C11/W] Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning ::
   Huiwon Jang\star, *_Hankook Lee_*\star, Jinwoo Shin \\
   International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
   Neural Information Processing Systems Workshop on Meta-Learning (*NeurIPSW-MetaLearn*), 2022 \\
   [[[https://openreview.net/forum?id=TdTGGj7fYYJ][paper]]] [[[https://arxiv.org/abs/2303.00996][arxiv]]] [[[https://github.com/alinlab/PsCo][code]]]
-- [C10] Guiding Energy-based Models via Contrastive Latent Variables ::
+- [C10/W] Guiding Energy-based Models via Contrastive Latent Variables ::
   *_Hankook Lee_*, Jongheon Jeong, Sejun Park, Jinwoo Shin \\
   International Conference on Learning Representations (*ICLR*), /Spotlight presentation/, 2023 \\
   Neural Information Processing Systems Workshop on Self-Supervised Learning (*NeurIPSW-SSL*), /Oral Presentation/, 2022 \\
@@ -74,7 +75,7 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
   Sukmin Yun, *_Hankook Lee_*, Jaehyung Kim, Jinwoo Shin \\
   Computer Vision and Pattern Recognition (*CVPR*), /Oral Presentation/, 2022 \\
   [[[https://openaccess.thecvf.com/content/CVPR2022/html/Yun_Patch-Level_Representation_Learning_for_Self-Supervised_Vision_Transformers_CVPR_2022_paper.html][paper]]] [[[https://arxiv.org/abs/2206.07990][arxiv]]] [[[file:assets/poster_selfpatch.pdf][poster]]] [[[https://github.com/alinlab/SelfPatch][code]]]
-- [C7] Improving Transferability of Representations via Augmentation-Aware Self-Supervision ::
+- [C7/W] Improving Transferability of Representations via Augmentation-Aware Self-Supervision ::
   *_Hankook Lee_*, Kibok Lee, Kimin Lee, Honglak Lee, Jinwoo Shin \\
   Neural Information Processing Systems (*NeurIPS*), 2021 \\
   ICML 2021 Workshop: Self-Supervised Learning for Reasoning and Perception \\
@@ -83,7 +84,7 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
   Junsu Kim, Sungsoo Ahn, *_Hankook Lee_*, Jinwoo Shin \\
   International Conference on Machine Learning (*ICML*), 2021 \\
   [[[http://proceedings.mlr.press/v139/kim21b.html][paper]]] [[[https://arxiv.org/abs/2106.04880][arxiv]]] [[[https://icml.cc/media/icml-2021/Slides/10749.pdf][slide]]] [[[https://drive.google.com/file/d/1sbVoaw6eSYPK4WUxW34FNakfdwmlgcVu/view][poster]]] [[[https://github.com/junsu-kim97/self_improved_retro][code]]]
-- [C5] RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning ::
+- [C5/W] RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning ::
   *_Hankook Lee_*, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang, Jinwoo Shin \\
   International Joint Conference on Artificial Intelligence (*IJCAI*), 2021 \\
   NeurIPS Workshop for Machine Learning for Molecules, 2020 \\
