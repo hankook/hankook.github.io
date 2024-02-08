@@ -4,19 +4,13 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-*Research Scientist* @ Advanced ML Lab, LG AI Research, South Korea \\
-/hankook.lee at lgresearch.ai/
 #+BEGIN_EXPORT html
-<div style="text-align: center;">
-<img src="assets/image.jpeg" width="50%"> <br>
-<a href="https://twitter.com/hankook_lee"><i class="fab fa-twitter fa-2x"></i></a>
-<a href="https://github.com/hankook"><i class="fab fa-github fa-2x"></i></a>
-<a href="https://scholar.google.co.kr/citations?user=CgqswXUAAAAJ"><i class="ai ai-google-scholar fa-2x"></i></a>
-<a href="assets/CV.pdf"><i class="ai ai-cv fa-2x"></i></a>
-</div>
+hankook.lee at skku.edu
+/ <a href="https://github.com/hankook">Github</a>
+/ <a href="https://scholar.google.co.kr/citations?user=CgqswXUAAAAJ">Google Scholar</a>
 #+END_EXPORT
 
-I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prior to this, I worked at Korea Advanced Institute of Science and Technology ([[https://kaist.ac.kr][KAIST]]) as a Postdoctoral Researcher. I completed my Ph.D. degree in the School of Electrical Engineering at KAIST, advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]]. My research has investigated how to learn deep neural networks with limited human prior knowledge. Specifically, my interests include self-supervised learning, transfer learning, data augmentation, and real-world applications with limited labels.
+I am an incoming assistant professor in [[https://cse.skku.edu][Department of Computer Science and Engineering at Sungkyunkwan University]]. Prior to this, I worked at [[https://www.lgresearch.ai][LG AI Research]] as a Research Scientist and Korea Advanced Institute of Science and Technology ([[https://kaist.ac.kr][KAIST]]) as a Postdoctoral Researcher. I completed my Ph.D. degree in the School of Electrical Engineering at KAIST, advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]]. My research has investigated how to learn deep neural networks with limited human prior knowledge. Specifically, my interests include self-supervised learning, transfer learning, data augmentation, and real-world applications with limited labels.
 
 * Publications
 :PROPERTIES:
@@ -120,6 +114,9 @@ I am a Research Scientist at [[https://www.lgresearch.ai][LG AI Research]]. Prio
   B.S. in Mathematical Science and Computer Science (double major)
 
 * Work Experience
+- LG AI Research ::
+  Seoul, South Korea, 2023. 02 - 2024. 02 \\
+  Research Scientist
 - Korea Advanced Institute of Science and Technology (KAIST) ::
   Seongnam, South Korea, 2022. 09 - 2023. 02 \\
   Postdoctoral Researcher
