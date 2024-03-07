@@ -10,15 +10,22 @@ hankook.lee at skku.edu
 / <a href="https://scholar.google.co.kr/citations?user=CgqswXUAAAAJ">Google Scholar</a>
 #+END_EXPORT
 
-I am an incoming assistant professor in [[https://cse.skku.edu][Department of Computer Science and Engineering at Sungkyunkwan University]]. Prior to this, I worked at [[https://www.lgresearch.ai][LG AI Research]] as a Research Scientist and Korea Advanced Institute of Science and Technology ([[https://kaist.ac.kr][KAIST]]) as a Postdoctoral Researcher. I completed my Ph.D. degree in the School of Electrical Engineering at KAIST, advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]]. My research has investigated how to learn deep neural networks with limited human prior knowledge. Specifically, my interests include self-supervised learning, transfer learning, data augmentation, and real-world applications with limited labels.
+I am an assistant professor in [[https://cse.skku.edu][Department of Computer Science and Engineering at Sungkyunkwan University]]. Prior to this, I worked at [[https://www.lgresearch.ai][LG AI Research]] as a Research Scientist and Korea Advanced Institute of Science and Technology ([[https://kaist.ac.kr][KAIST]]) as a Postdoctoral Researcher. I completed my Ph.D. degree in the School of Electrical Engineering at [[https://kaist.ac.kr][KAIST]], advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]].
+
+I am interested in improving the *_efficiency of deep learning_*. Specifically, my research has focused on data-efficient deep learning, including self-supervised learning, few-shot learning, and transfer learning. I am also interested in solving real-world problems on various data domains such as computer vision, chemistry, and tabular data.
+
+I am currently looking for highly motivated graduate/undergraduate students with a strong interest in the area of deep learning. If you are interested in joining, send me an email with your transcript and CV.
 
 * Publications
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: publications
 :END:
 
-*J*: Journal / *C*: Conference / *W*: Workshop / *P*: Preprint / *\star*: equal contribution
+*J*: Journal / *C*: Conference / *W*: Workshop / *\star*: equal contribution
 
+- [C15] Learning Equi-angular Representations for Online Continual Learning ::
+  Minhyuk Seo, Hyunseo Koh, Wonje Jeung, Min Jae Lee, San Kim, *_Hankook Lee_*, Sungjun Cho, Sungik Choi, Hyunwoo Kim, Jonghyun Choi \\
+  Conference on Computer Vision and Pattern Recognition (*CVPR*), 2024
 - [J1/W] Few-shot Anomaly Detection via Personalization ::
   Sangkyung Kwak, Jongheon Jeong, *_Hankook Lee_*, Woohyuck Kim, Dongho Seo, Woojin Yun, Wonjin Lee, Jinwoo Shin \\
   IEEE Access, 2024 \\
@@ -28,7 +35,7 @@ I am an incoming assistant professor in [[https://cse.skku.edu][Department of Co
   Sungik Choi, *_Hankook Lee_*, Honglak Lee, Moontae Lee \\
   Neural Information Processing Systems (*NeurIPS*), 2023 \\
   [[[https://openreview.net/forum?id=3qHlPqzjM1][paper]]]
-- [W4] Diffusion-based Semantic-Discrepant Outlier Generation for Out-of-Distribution Detection ::
+- [W3] Diffusion-based Semantic-Discrepant Outlier Generation for Out-of-Distribution Detection ::
   Suhee Yoon\star, Sanghyu Yoon\star, *_Hankook Lee_*, Sangjun Han, Ye Seul Sim, Kyungeun Lee, Hyeseung Cho, Woohyung Lim \\
   NeurIPS Workshop on Synthetic Data Generation with Generative AI (*SyntheticData4ML*), 2023 \\
   [[[https://openreview.net/forum?id=0jAd2k8JV4][paper]]]
@@ -100,20 +107,11 @@ I am an incoming assistant professor in [[https://cse.skku.edu][Department of Co
   Yunhun Jang\star, *_Hankook Lee_*\star, Sung Ju Hwang, Jinwoo Shin \\
   International Conference on Machine Learning (*ICML*), 2019 \\
   [[[http://proceedings.mlr.press/v97/jang19b.html][paper]]] [[[https://arxiv.org/abs/1905.05901][arxiv]]] [[[https://github.com/alinlab/L2T-ww][code]]] [[[https://icml.cc/media/Slides/icml/2019/103(13-09-00)-13-10-05-5011-learning_what_a.pdf][slide]]] [[[https://slideslive.com/38917771/supervised-and-transfer-learning][talk]] 55:14~59:09]
-- [P1] Anytime Neural Prediction via Slicing Networks Vertically ::
-  *_Hankook Lee_*, Jinwoo Shin \\
-  arXiv, 2018 \\
-  [[[https://arxiv.org/abs/1807.02609][arxiv]]] [[[https://github.com/hankook/IResNeXt][code]]]
-
-* Education
-- Korea Advanced Institute of Science and Technology (KAIST) ::
-  Daejeon, South Korea, 2016. 03 - 2022. 08 \\
-  M.S. & Ph.D. in Electrical Engineering (advisor: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
-- Korea Advanced Institute of Science and Technology (KAIST) ::
-  Daejeon, South Korea, 2010. 02 - 2016. 02 \\
-  B.S. in Mathematical Science and Computer Science (double major)
 
 * Work Experience
+- Sungkyunkwan University ::
+  Suwon, South Korea, 2024. 03 - present \\
+  Assistant Professor
 - LG AI Research ::
   Seoul, South Korea, 2023. 02 - 2024. 02 \\
   Research Scientist
@@ -126,6 +124,14 @@ I am an incoming assistant professor in [[https://cse.skku.edu][Department of Co
 - Frograms Inc. (changed to Watcha Inc. @ 2018) ::
   Seoul, South Korea, 2013. 08 - 2014. 12 \\
   Research and Development Engineer
+
+* Education
+- Korea Advanced Institute of Science and Technology (KAIST) ::
+  Daejeon, South Korea, 2016. 03 - 2022. 08 \\
+  M.S. & Ph.D. in Electrical Engineering (advisor: [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]])
+- Korea Advanced Institute of Science and Technology (KAIST) ::
+  Daejeon, South Korea, 2010. 02 - 2016. 02 \\
+  B.S. in Mathematical Science and Computer Science (double major)
 
 * Awards
 - Qualcomm-KAIST Innovation Awards (2019)
@@ -145,3 +151,4 @@ I am an incoming assistant professor in [[https://cse.skku.edu][Department of Co
   - ACM *ToMPECS*
   - IEEE *TPAMI*
   - Journal of Machine Learning Research (*JMLR*)
+  - Nature Communications
