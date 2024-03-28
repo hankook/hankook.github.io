@@ -10,11 +10,11 @@ hankook.lee at skku.edu
 / <a href="https://scholar.google.co.kr/citations?user=CgqswXUAAAAJ">Google Scholar</a>
 #+END_EXPORT
 
-I am an assistant professor in [[https://cse.skku.edu][Department of Computer Science and Engineering at Sungkyunkwan University]]. Prior to this, I worked at [[https://www.lgresearch.ai][LG AI Research]] as a Research Scientist and Korea Advanced Institute of Science and Technology ([[https://kaist.ac.kr][KAIST]]) as a Postdoctoral Researcher. I completed my Ph.D. degree in the School of Electrical Engineering at [[https://kaist.ac.kr][KAIST]], advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]].
+I am an assistant professor in [[https://cse.skku.edu][Department of Computer Science and Engineering at Sungkyunkwan University (SKKU)]]. Prior to this, I worked at [[https://www.lgresearch.ai][LG AI Research]] as a Research Scientist and Korea Advanced Institute of Science and Technology ([[https://kaist.ac.kr][KAIST]]) as a Postdoctoral Researcher. I completed my Ph.D. degree in the School of Electrical Engineering at [[https://kaist.ac.kr][KAIST]], advised by Prof. [[https://alinlab.kaist.ac.kr/shin.html][Jinwoo Shin]].
 
 I am interested in improving the *_efficiency of deep learning_*. Specifically, my research has focused on data-efficient deep learning, including self-supervised learning, few-shot learning, and transfer learning. I am also interested in solving real-world problems on various data domains such as computer vision, chemistry, and tabular data.
 
-If you are interested in joining our lab, send me an email with your transcript and CV.
+*Efficient Learning Lab (ELL) at SKKU.* I am currently looking for self-motivated graduate students and undergraduate interns with a strong interest in the area of deep learning. If you are interested in joining our lab, send me an email with your transcript and CV.
 
 * Publications
 :PROPERTIES:
@@ -141,14 +141,9 @@ If you are interested in joining our lab, send me an email with your transcript 
 - Korea Olympiad in Informatics (KOI) : *Gold* Prize (2009)
 
 * Services
-- Conference Reviewer:
-  - *ICLR* (2020-2024)
-  - *NeurIPS* (2020-2023)
-  - *ICML* (2021-2024)
-  - *AAAI* (2022-2024)
-  - Self-supervised Learning Workshops (ICML 2021, NeurIPS 2021-2022, ECCV 2022)
-- Journal Reviewer:
-  - ACM *ToMPECS*
-  - IEEE *TPAMI*
-  - Journal of Machine Learning Research (*JMLR*)
-  - Nature Communications
+- Area Chair
+  - NeurIPS (2024)
+- Reviewer
+  - Conferences: ICLR (2020-2024), NeurIPS (2020-2023), ICML (2021-2024), AAAI (2022-2024)
+  - Conference Workshops: Self-supervised Learning (ICML 2021, NeurIPS 2021-2022, ECCV 2022)
+  - Journals: ACM ToMPECS, IEEE TPAMI, Journal of Machine Learning Research (JMLR), Nature Communications
