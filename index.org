@@ -16,6 +16,10 @@ I am interested in improving the *_efficiency of deep learning_*. Specifically, 
 
 *Efficient Learning Lab (ELL) at SKKU.* I am currently looking for self-motivated graduate students and undergraduate interns with a strong interest in the area of deep learning. If you are interested in joining our lab, send me an email with your transcript and CV.
 
+#+BEGIN_EXPORT html
+<h3 style="text-align: center;"><a href="https://ell.skku.edu">ELL's homepage</a> is now open! Visit it for latest updates and information.</h3>
+#+END_EXPORT
+
 * Publications
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: publications
